@@ -1,0 +1,3 @@
+[submodule "findere"]
+	path = findere
+	url = ./findere
